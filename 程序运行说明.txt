@@ -1,0 +1,7 @@
+在装有JDK的调试环境中
+
+直接运行：
+进入EmailClient文件夹，点击EmailClient.jar直接运行
+
+在NetBean环境下运行
+打开NetBean，点击新建--新建项目--选择EmailClient文件夹即可。
